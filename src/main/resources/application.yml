@@ -1,0 +1,8 @@
+jpush:
+  appKey: b6c756485f53ffbc354dbd92
+  masterSecret: 2adb1802073a6a5879866cb0
+  liveTime: 1000
+  apnsProduction: false
+
+push:
+  type: upush
